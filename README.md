@@ -65,6 +65,7 @@
 <!-- Thank you section -->
 <details>
   <summary>Resources I'm thankful for!</summary>
+  <br><br>
   <table align="center">
     <thead align="center">
       <tr>

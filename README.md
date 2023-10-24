@@ -1,27 +1,26 @@
 <!-- Introduction -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Emily+Matias)](https://git.io/typing-svg)
----
-
-<img src="img/pc.png" width="300px" align="right">
+![Emily Matias](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Emily+Matias)
 
 <p align="left">
+  <img src="img/pc.png" width="300px" align="right">
   <ul>
     <li>Hi! I'm Emily, a 30yo brazilian from a Social Sciences and design background migrating to IT.</li>
     <li>I'm currently a freelance web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>.</li>
     <li>I'm self-taught through bootcamps, online documentation and free webcourses. My goal is to acquire the knowledge and experience needed to be a full stack developer.</li>
     <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/overlay/1635543546657/single-media-viewer/?profileId=ACoAADqMZOMBNhvwWZbi9ilI_2fx-xD7lRdj5pA">resume on LinkedIn</a>, too!</li>
+  </ul>
 </p>
 
 <!-- Socials section -->
 <p align="center">
-    <br>
-    <a href="https://www.linkedin.com/in/matiasemily/" target="_blank">
+    <br><br>
+    <a style="margin-right: 6px" href="https://www.linkedin.com/in/matiasemily/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4" alt="LinkedIn Badge">
     </a>
-    <a href="mailto:matias.emily@outlook.com" target="_blank">
+    <a style="margin-right: 6px" href="mailto:matias.emily@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/E&ndash;mail-%230077B5.svg?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white&color=ff69b4" alt="Email Badge">
     </a>
-    <a href="https://www.hackerrank.com/profile/matiasemily" target="_blank">
+    <a style="margin-right: 6px" href="https://www.hackerrank.com/profile/matiasemily" target="_blank">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&color=ff69b4" alt="HackerRank Badge">
     </a>
     <br><br>
@@ -30,7 +29,7 @@
 
 <!-- Projects section -->
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Projects+and+technologies)
+![Projects and Technologies](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Projects+and+technologies)
 
 - [Rita (homologation)](https://fc.tmp.br/rita)
 - [Humana Academy](https://fc.tmp.br/humana)
@@ -52,7 +51,7 @@
 
 <!-- Public stats section -->
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=My+public+stats)
+![Public stats](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=My+public+stats)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

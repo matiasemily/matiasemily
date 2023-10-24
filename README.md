@@ -5,9 +5,9 @@
   <img src="img/pc.png" width="300px" align="right">
   <ul>
     <li>Hi! I'm Emily, a 30yo brazilian from a Social Sciences and design background migrating to IT.</li>
-    <li>I'm currently a freelance web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. That's why most of my repositories are private.</li>
     <li>I'm self-taught through bootcamps, online documentation and free webcourses. My goal is to acquire the knowledge and experience needed to be a full stack developer.</li>
-    <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/overlay/1635543546657/single-media-viewer/?profileId=ACoAADqMZOMBNhvwWZbi9ilI_2fx-xD7lRdj5pA">resume on LinkedIn</a>, as well!</li>
+    <li>I'm currently a freelance web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private to protect my clients' data.</li>
+    <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/overlay/1635543546657/single-media-viewer/?profileId=ACoAADqMZOMBNhvwWZbi9ilI_2fx-xD7lRdj5pA">resume on LinkedIn</a> as well!</li>
   </ul>
 </p>
 
@@ -65,7 +65,7 @@
 <!-- Thank you section -->
 <details>
   <summary>Resources I'm thankful for!</summary>
-  <br><br>
+  <br>
   <table align="center">
     <thead align="center">
       <tr>

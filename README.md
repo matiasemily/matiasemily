@@ -1,5 +1,5 @@
 <!-- Introduction -->
-![Emily Matias](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Emily+Matias)
+![Emily Matias](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=922CF7&random=false&width=435&lines=Emily+Matias)
 
 <p align="left">
   <img src="img/pc.png" width="300px" align="right">

@@ -43,6 +43,7 @@
     <img style="margin-right: 6px" alt="html badge" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=wordpress&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">

@@ -38,15 +38,20 @@
 <!-- Technologies -->
 <p align="center">
     <img style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="javascript badge" src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="springboot badge" src="https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="javascript badge" src="https://img.shields.io/badge/JS-100000?style=for-the-badge&logo=javascript&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/TS-100000?style=for-the-badge&logo=typescript&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="angular badge" src="https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="css badge" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="html badge" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=wordpress&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+    <img style="margin-right: 6px" alt="intellij badge" src="https://img.shields.io/badge/IntelliJ-0078D4?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
     <br><br>
 </p>

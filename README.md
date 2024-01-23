@@ -4,16 +4,15 @@
 <p align="left">
   <img src="img/pc.png" width="300px" align="right">
   <ul>
-    <li>Hi! I'm Emily, a brazilian from a Social Sciences and design background who migrated to IT. My goal is to acquire the knowledge and experience needed as a full-stack developer.</li>
+    <li>Hi! I'm Emily, a Brazilian from a Social Sciences and design background who migrated to IT. My goal is to acquire the knowledge and experience needed as a full-stack developer.</li>
     <li>I'm self-taught through bootcamps, online documentation and free webcourses – open source is seriously my foundation.</li>
     <li>I'm currently a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private to protect my clients' data.</li>
     <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/?locale=en_US">resume on LinkedIn</a> and deployed works below as well!</li>
   </ul>
-</p>
+</p><br><br>
 
 <!-- Socials section -->
 <p align="center">
-    <br><br>
     <a style="margin-right: 6px" href="https://www.linkedin.com/in/matiasemily/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4" alt="LinkedIn Badge">
     </a>
@@ -23,7 +22,7 @@
     <a style="margin-right: 6px" href="https://www.hackerrank.com/profile/matiasemily" target="_blank">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&color=ff69b4" alt="HackerRank Badge">
     </a>
-    <br>
+    <br><br>
     <img src="https://komarev.com/ghpvc/?username=matiasemily&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -53,7 +52,6 @@
     <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="intellij badge" src="https://img.shields.io/badge/IntelliJ-0078D4?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=00B8B5">
     <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
-    <br><br>
 </p>
 
 <!-- Public stats section -->

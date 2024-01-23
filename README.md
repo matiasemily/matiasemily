@@ -7,7 +7,7 @@
     <li>Hi! I'm Emily, a 30yo brazilian from a Social Sciences and design background migrating to IT.</li>
     <li>I'm self-taught through bootcamps, online documentation and free webcourses. My goal is to acquire the knowledge and experience needed to be a full stack developer.</li>
     <li>I'm currently a freelance web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private to protect my clients' data.</li>
-    <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/overlay/1635543546657/single-media-viewer/?profileId=ACoAADqMZOMBNhvwWZbi9ilI_2fx-xD7lRdj5pA">resume on LinkedIn</a> as well!</li>
+    <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/overlay/1635543546657/single-media-viewer/?profileId=ACoAADqMZOMBNhvwWZbi9ilI_2fx-xD7lRdj5pA">resume on LinkedIn</a> and my deployed work below as well!</li>
   </ul>
 </p>
 
@@ -23,7 +23,7 @@
     <a style="margin-right: 6px" href="https://www.hackerrank.com/profile/matiasemily" target="_blank">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&color=ff69b4" alt="HackerRank Badge">
     </a>
-    <br><br>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=matiasemily&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -31,7 +31,7 @@
 ---
 ![Projects and Technologies](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Projects+and+technologies)
 
-- [Rita (homologation)](https://fc.tmp.br/rita)
+- [Rita Saúde](https://ritasaude.com.br)
 - [Humana Academy](https://fc.tmp.br/humana)
 - [Blog Sabin](https://blog.sabin.com.br/)<br><br>
 
@@ -62,10 +62,6 @@
 
 <p align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=matiasemily&column=8&theme=dracula&no-frame=true&no-bg=true">
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasemily&show_icons=true&theme=outrun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasemily&show_icons=true&theme=outrun&layout=compact&langs_count=8&card_width=320">
- <br><br>
 </p>
 
 <!-- Thank you section -->

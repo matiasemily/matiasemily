@@ -4,10 +4,10 @@
 <p align="left">
   <img src="img/pc.png" width="300px" align="right">
   <ul>
-    <li>Hi! I'm Emily, a Brazilian from a Social Sciences and design background who migrated to IT. My goal is to acquire the knowledge and experience needed as a full-stack developer.</li>
-    <li>I'm self-taught through bootcamps, online documentation and free webcourses – open source is seriously my foundation.</li>
-    <li>I'm currently a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private to protect my clients' data.</li>
-    <li>Feel free to check my <a href="https://www.linkedin.com/in/matiasemily/?locale=en_US">resume on LinkedIn</a> and deployed works below as well!</li>
+    <li>Hi! I'm Emily, a native of Brasília, Brazil, transitioning from Social Sciences and Design to IT, with the goal of gaining experience as a full-stack professional.</li>    
+    <li>Currently I'm a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private in order to protect clients' data.</li>
+    <li>I'm self-taught through bootcamps, online documentation and free webcourses – open source is my foundation.</li>
+    <li>Feel free to contact me, or explore some of my deployed works below as well!</li>
   </ul>
 </p><br><br>
 
@@ -32,26 +32,36 @@
 
 - [Rita Saúde](https://ritasaude.com.br)
 - [Humana Academy](https://fc.tmp.br/humana)
-- [Blog Sabin](https://blog.sabin.com.br/)<br><br>
+- [Blog Sabin](https://blog.sabin.com.br/)
+<br><br>
 
-<!-- Technologies -->
+<!-- Technologies section -->
+<!-- Web development -->
 <p align="center">
-    <img style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="springboot badge" src="https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="javascript badge" src="https://img.shields.io/badge/JS-100000?style=for-the-badge&logo=javascript&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/TS-100000?style=for-the-badge&logo=typescript&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="angular badge" src="https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="css badge" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="html badge" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=wordpress&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="intellij badge" src="https://img.shields.io/badge/IntelliJ-0078D4?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=00B8B5">
-    <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="html badge" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="css badge" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="javascript badge" src="https://img.shields.io/badge/JS-100000?style=for-the-badge&logo=javascript&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/TS-100000?style=for-the-badge&logo=typescript&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="angular badge" src="https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=wordpress&logoColor=white&color=00B8B5">
+</p>
+
+<!-- Other technologies -->
+<p align="center">
+  <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="springboot badge" src="https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=white&color=00B8B5">  
+</p>
+
+<!-- IDE, dev tools, environment and design tools -->
+<p align="center">
+  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="intellij badge" src="https://img.shields.io/badge/IntelliJ-0078D4?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
 </p>
 
 <!-- Public stats section -->
@@ -63,6 +73,8 @@
 </p>
 
 <!-- Thank you section -->
+---
+![Credits](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Credits)
 <details>
   <summary>Resources I'm thankful for!</summary>
   <br>

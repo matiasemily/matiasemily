@@ -50,15 +50,16 @@
 <!-- Other technologies -->
 <p align="center">
   <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/MySql-100000?style=for-the-badge&logo=mysql&logoColor=white&color=00B8B5">
-  <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logoColor=white&color=00B8B5">
-  <img style="margin-right: 6px" alt="springboot badge" src="https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=white&color=00B8B5">  
+  <img style="margin-right: 6px" alt="python badge" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="springboot badge" src="https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=white&color=00B8B5">
 </p>
 
 <!-- IDE, dev tools, environment and design tools -->
 <p align="center">
+  <img style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="intellij badge" src="https://img.shields.io/badge/IntelliJ-0078D4?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=00B8B5">
-  <img style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">

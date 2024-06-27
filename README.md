@@ -4,9 +4,9 @@
 <p align="left">
   <img src="img/pc.png" width="300px" align="right">
   <ul>
-    <li>Hi! I'm Emily, a native of Brasília, Brazil, transitioning from Social Sciences and Design to IT, with the goal of gaining experience as a full-stack professional.</li>    
-    <li>Currently I'm a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Most of my repositories are private in order to protect clients' data.</li>
-    <li>I'm self-taught through bootcamps, online documentation and free webcourses – open source is my foundation.</li>
+    <li>Hi! I'm Emily, a native of Brasília, Brazil, transitioning from Social Sciences and Design to IT, with the goal of gaining experience as a full stack professional.</li>    
+    <li>Currently I'm a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Usually of my repositories are private in order to protect clients' data.</li>
+    <li>I'm a self-taught learner, mostly through bootcamps, free webcourses and online documentation – open source is my foundation.</li>
     <li>Feel free to contact me, or explore some of my deployed works below as well!</li>
   </ul>
 </p><br><br>
@@ -43,6 +43,7 @@
   <img style="margin-right: 6px" alt="javascript badge" src="https://img.shields.io/badge/JS-100000?style=for-the-badge&logo=javascript&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/TS-100000?style=for-the-badge&logo=typescript&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="angular badge" src="https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="react badge" src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white&color=00B8B5">
   <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-100000?style=for-the-badge&logo=wordpress&logoColor=white&color=00B8B5">
 </p>

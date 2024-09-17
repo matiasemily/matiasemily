@@ -4,9 +4,9 @@
 <p align="left">
   <img src="img/pc.png" width="300px" align="right">
   <ul>
-    <li>Hi 👋 I'm Emily, a native of Brasília, Brazil, transitioning from Social Sciences and Design to IT, with the goal of gaining experience as a full stack professional.</li>
-    <li>Currently I'm a freelance front-end web developer, working at a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. Usually, my repositories are private in order to protect clients' data.</li>
-    <li>I'm a self-taught learner, mostly through bootcamps, free webcourses and online documentation – open source is my foundation.</li>
+    <li>Hi 👋 I'm Emily, a native of Brasília, Brazil, transitioning from Social Sciences and Design to DevOps, with a focus on cloud computing and infrastructure automation.</li>
+    <li>Since January 2023, I have been working as a freelance front-end web developer in collaboration with a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. My repositories are usually private to protect clients' data.</li>
+    <li>I'm a self-taught learner, mostly through bootcamps, free webcourses and online documentation – open source is my passion and my foundation.</li>
     <li>Feel free to contact me, or explore some of my deployed works below as well!</li>
   </ul>
 </p><br><br>

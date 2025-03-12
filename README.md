@@ -5,8 +5,8 @@
   <img src="img/pc.png" width="300px" align="right">
   <ul>
     <li>Hi 👋 I'm Emily, originally from Brasília, Brazil. With a background in Social Sciences and Design, I transitioned into full-stack web development and am now pursuing a career in DevOps. To deepen my focus on cloud computing and infrastructure automation, I earned certifications in Azure (AZ-900) and AWS (CLF-C02).</li>
-    <li>Since January 2023, I have been working as a freelance web developer in collaboration with a marketing company, <a href="https://www.linkedin.com/company/colativo/">Colativo</a>. My repositories are usually private to protect clients' data.</li>
-    <li>I'm a self-taught learner, mostly through bootcamps, free webcourses and online documentation – open source is my passion and my foundation.</li>
+    <li>Since January 2023, I have been working as a web developer, and in March 2025, I joined the <a href="https://prosa.eco.br/">Prosa</a> team as a full-time web developer, collaborating on the HarpiaSoft system. Our repository is private to protect data and comply with security standards.</li>
+    <li>Initially I was an independent self-taught learner, mostly through bootcamps, free web courses, and online documentation. Now I'm also pursuing a degree in Information Systems at IESB, expected to graduate in July 2027. Still, open source is and will always be my passion and my foundation.</li>
     <li>Feel free to contact me, or explore some of my deployed works below as well!</li>
   </ul>
 </p><br><br>
@@ -26,7 +26,7 @@
     <img src="https://komarev.com/ghpvc/?username=matiasemily&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views">
 </p>
 
-<!-- Projects section -->
+<!-- Deployed Projects section -->
 ---
 ![Projects and Technologies](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=922CF7&random=false&width=435&lines=Projects+and+technologies)
 
